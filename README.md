@@ -23,7 +23,7 @@ Base de datos: No se requiere una base de datos específica para este proyecto.
 Clona el repositorio en tu máquina local:
 
 ```bash
-git clone gitgit@github.com:jmcstoltze/desafioMembresia.git
+git clone git@github.com:jmcstoltze/desafioMembresia.git
 ```
 
 ## Uso
